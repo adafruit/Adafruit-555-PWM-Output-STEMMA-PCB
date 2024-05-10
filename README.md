@@ -1,4 +1,4 @@
-## Adafruit 555 PWM Output STEMMA - 1.4K~25 KHz or 1.4~250 Hz - STEMMA JST PH 2mm PCB
+## Adafruit 555 PWM Output STEMMA - 1.4K to 25 KHz or 1.4 to 250 Hz - STEMMA JST PH 2mm PCB
 
 <a href="http://www.adafruit.com/products/5963"><img src="assets/5963.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
